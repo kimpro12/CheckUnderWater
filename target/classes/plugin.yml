@@ -1,0 +1,6 @@
+name: Checkunderwater
+version: '1.0-SNAPSHOT'
+main: me.checkunderwater.Checkunderwater
+authors: [ KIM ]
+description: KIM
+api-version: 1.13

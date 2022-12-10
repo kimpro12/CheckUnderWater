@@ -1,0 +1,6 @@
+name: Checkunderwater
+version: '${project.version}'
+main: me.checkunderwater.Checkunderwater
+authors: [ KIM ]
+description: KIM
+api-version: 1.13
